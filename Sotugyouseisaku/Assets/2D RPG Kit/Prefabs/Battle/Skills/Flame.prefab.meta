@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cc133656ae6cb1240b325a1c58efec5e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Battle/Skills/Flame.prefab
+  uploadId: 700099

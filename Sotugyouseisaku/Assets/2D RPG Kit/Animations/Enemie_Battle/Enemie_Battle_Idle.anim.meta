@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cbb5d2ceaa59aec45a6ac553d6f0baab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Animations/Enemie_Battle/Enemie_Battle_Idle.anim
+  uploadId: 700099

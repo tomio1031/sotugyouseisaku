@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67aaab33d8f46774fb89c9aebaaa1801
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Battle/Effects/Move Indicator Effect.prefab
+  uploadId: 700099

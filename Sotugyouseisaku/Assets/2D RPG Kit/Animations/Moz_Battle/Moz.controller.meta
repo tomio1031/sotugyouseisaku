@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f821671de62fd0b4b8f98804cd92671c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Animations/Moz_Battle/Moz.controller
+  uploadId: 700099

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: db7667203062c644ea1877077e30ebd6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Touch Support/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs
+  uploadId: 700099

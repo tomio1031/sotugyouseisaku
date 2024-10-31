@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b870fc6523055d459211cb5acba3952
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Sprites/Tilesets/Home/Home_16.asset
+  uploadId: 700099

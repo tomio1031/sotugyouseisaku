@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d0b74a9dfce5df142983705c379ea5a6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Sprites/Tilesets/Overworld/Overworld_50.asset
+  uploadId: 700099

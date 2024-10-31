@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ecb221534c7cdd54abe1bbf679139c65
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Main/Audio Manager.prefab
+  uploadId: 700099

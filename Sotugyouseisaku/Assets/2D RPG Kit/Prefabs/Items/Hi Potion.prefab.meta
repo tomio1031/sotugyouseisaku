@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e577f80afa0643846a26c0c1dd996b3f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Items/Hi Potion.prefab
+  uploadId: 700099

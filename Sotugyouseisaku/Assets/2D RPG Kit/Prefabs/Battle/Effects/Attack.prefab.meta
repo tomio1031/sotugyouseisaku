@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 313fad8cc71b68045b01e8aa93182ab7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Battle/Effects/Attack.prefab
+  uploadId: 700099

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d59f9cf97dce6f842b695414d133ecad
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Sprites/Tilesets/Town/Town_103.asset
+  uploadId: 700099

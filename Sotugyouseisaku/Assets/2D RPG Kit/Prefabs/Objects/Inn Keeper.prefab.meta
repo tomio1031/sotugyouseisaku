@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 27bd4bf28738be140b1eff1b70c2e0a2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Objects/Inn Keeper.prefab
+  uploadId: 700099

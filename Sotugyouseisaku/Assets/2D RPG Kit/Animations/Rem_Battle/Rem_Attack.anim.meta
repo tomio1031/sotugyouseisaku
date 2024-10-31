@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7cdb5013b6a9e043b18e02f746d6ff3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Animations/Rem_Battle/Rem_Attack.anim
+  uploadId: 700099

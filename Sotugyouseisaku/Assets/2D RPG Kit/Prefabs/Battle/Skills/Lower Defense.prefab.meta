@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5646805c4dc3bc24ea934f3f050d4c0e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Battle/Skills/Lower Defense.prefab
+  uploadId: 700099

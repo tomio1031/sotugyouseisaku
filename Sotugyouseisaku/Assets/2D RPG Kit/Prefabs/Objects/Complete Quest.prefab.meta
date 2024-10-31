@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 03f21b948b6c35348bffa86cc84c2dba
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Objects/Complete Quest.prefab
+  uploadId: 700099

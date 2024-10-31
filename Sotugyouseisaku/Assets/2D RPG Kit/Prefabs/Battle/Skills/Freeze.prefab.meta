@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f75f485a058663e4ab1dff24d0e2a29f
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Battle/Skills/Freeze.prefab
+  uploadId: 700099

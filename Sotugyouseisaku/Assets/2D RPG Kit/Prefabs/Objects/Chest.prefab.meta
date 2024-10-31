@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b1d29c5bb12d9a4abf9fcfa20d04723
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Objects/Chest.prefab
+  uploadId: 700099

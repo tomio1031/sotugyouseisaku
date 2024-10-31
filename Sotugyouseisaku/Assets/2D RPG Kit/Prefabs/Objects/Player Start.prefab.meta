@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a1c6d7ba4c3ac454d8f47dccbfab9291
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Objects/Player Start.prefab
+  uploadId: 700099

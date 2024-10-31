@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1f5224f3f12439d4d9f5315f7fb8ae8a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Scripts/CompleteQuest.cs
+  uploadId: 700099

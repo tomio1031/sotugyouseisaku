@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3537ab304d63544280b86803b7ea07e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Objects/NPC.prefab
+  uploadId: 700099

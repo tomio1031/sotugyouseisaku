@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ecea49df1db86304a90af0bfb696f2ae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Battle/Characters/Rem.prefab
+  uploadId: 700099

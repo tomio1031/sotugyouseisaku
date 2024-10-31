@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 211241e6fe03ac04c90c58e141f2b112
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Battle/Enemies/Bug.prefab
+  uploadId: 700099

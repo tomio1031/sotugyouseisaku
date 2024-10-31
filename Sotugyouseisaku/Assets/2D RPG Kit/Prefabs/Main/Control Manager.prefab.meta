@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6da6622c9fc43cf48b2909ec9a4a4e61
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Main/Control Manager.prefab
+  uploadId: 700099

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1db0ec4c63b1e744a956d28f292eb97c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Items/DEF Raiser.prefab
+  uploadId: 700099

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 015fba17eb1ff464f8710b845b84e9ed
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Objects/Battle Area.prefab
+  uploadId: 700099

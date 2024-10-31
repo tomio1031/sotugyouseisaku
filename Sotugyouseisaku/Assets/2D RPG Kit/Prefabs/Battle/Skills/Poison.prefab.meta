@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e20e7e925961cfa4cb3b0924d3b81c5b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Battle/Skills/Poison.prefab
+  uploadId: 700099

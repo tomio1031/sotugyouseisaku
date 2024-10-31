@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e362c15bbe00f4d49ac5d939ce8151fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Scripts/SceneGUITilemap.cs
+  uploadId: 700099

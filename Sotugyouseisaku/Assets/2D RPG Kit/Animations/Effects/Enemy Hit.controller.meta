@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76282f9070038b64089ec34026fbfa86
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Animations/Effects/Enemy Hit.controller
+  uploadId: 700099

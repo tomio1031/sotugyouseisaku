@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2e92fbf96dee5d419cd16b03b466c56
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Animations/Moz_Battle/Moz_Defeated.anim
+  uploadId: 700099

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cdec89ce13569b54bb22a8fd4666df56
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Objects/Event Object Activator.prefab
+  uploadId: 700099

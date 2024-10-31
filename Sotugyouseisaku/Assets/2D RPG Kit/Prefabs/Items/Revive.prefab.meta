@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a09f0bc9df97ac4429fd49e029e1d598
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Items/Revive.prefab
+  uploadId: 700099

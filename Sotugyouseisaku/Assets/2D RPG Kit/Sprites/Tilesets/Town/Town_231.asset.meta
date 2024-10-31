@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4fee1cc760dd6344aac2c8d679fca725
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Sprites/Tilesets/Town/Town_231.asset
+  uploadId: 700099

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc3a83ed9a6c9c64a866d5547ade27ab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Animations/Rem2_World/Rem2_World.controller
+  uploadId: 700099

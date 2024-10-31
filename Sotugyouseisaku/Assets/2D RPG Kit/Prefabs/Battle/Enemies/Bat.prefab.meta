@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6e73f5777a945044d9b7b442fce059ca
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Battle/Enemies/Bat.prefab
+  uploadId: 700099

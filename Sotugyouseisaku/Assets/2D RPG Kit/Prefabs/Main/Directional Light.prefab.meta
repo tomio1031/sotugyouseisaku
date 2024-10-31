@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 35f61d1a896c3f048a604ae567a45dc5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Main/Directional Light.prefab
+  uploadId: 700099

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ea6ee854e04317240bdd324a8dcaaee8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Battle/Skills/Lower Strength.prefab
+  uploadId: 700099

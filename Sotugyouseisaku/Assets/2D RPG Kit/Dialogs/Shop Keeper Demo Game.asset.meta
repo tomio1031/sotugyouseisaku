@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 296ff25d8eeae524b8567184e01e31b9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Dialogs/Shop Keeper Demo Game.asset
+  uploadId: 700099

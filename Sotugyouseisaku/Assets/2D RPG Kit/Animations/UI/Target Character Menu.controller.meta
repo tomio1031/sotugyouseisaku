@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb78875498f333a459678b8198e97b3d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Animations/UI/Target Character Menu.controller
+  uploadId: 700099

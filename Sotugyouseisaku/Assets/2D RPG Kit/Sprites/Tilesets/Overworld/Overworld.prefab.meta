@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 571b3e80c972dcf48a15156ce5043180
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Sprites/Tilesets/Overworld/Overworld.prefab
+  uploadId: 700099

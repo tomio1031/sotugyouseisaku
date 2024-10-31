@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8d1581ad0965b4746bc0226efc6c7edc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Animations/Rem_World/Player_Idle_Left.anim
+  uploadId: 700099

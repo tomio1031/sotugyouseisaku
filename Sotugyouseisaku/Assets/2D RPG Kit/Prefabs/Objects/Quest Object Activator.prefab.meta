@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f41e32bcce556d54ebacf0136c052137
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Objects/Quest Object Activator.prefab
+  uploadId: 700099

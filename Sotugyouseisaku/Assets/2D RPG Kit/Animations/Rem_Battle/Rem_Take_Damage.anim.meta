@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 541fe2d693872bd4ca618969b59f2827
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Animations/Rem_Battle/Rem_Take_Damage.anim
+  uploadId: 700099

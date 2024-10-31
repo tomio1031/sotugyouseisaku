@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fda78aebe6856ef429e740c342d90162
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Sprites/Tilesets/Cave/Cave_40.asset
+  uploadId: 700099

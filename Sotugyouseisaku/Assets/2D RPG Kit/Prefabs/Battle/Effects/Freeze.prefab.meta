@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 218e53e7d9c3d104e9b26248d1236554
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Battle/Effects/Freeze.prefab
+  uploadId: 700099

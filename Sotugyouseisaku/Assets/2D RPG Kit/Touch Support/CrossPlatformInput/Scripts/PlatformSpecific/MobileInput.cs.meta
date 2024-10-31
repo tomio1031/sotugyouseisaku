@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9703d53e47195aa4190acd11369ccd1b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Touch Support/CrossPlatformInput/Scripts/PlatformSpecific/MobileInput.cs
+  uploadId: 700099

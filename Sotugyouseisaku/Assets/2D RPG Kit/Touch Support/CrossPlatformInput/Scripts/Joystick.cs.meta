@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 00c3c865782347f41b6358d9fba14b48
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Touch Support/CrossPlatformInput/Scripts/Joystick.cs
+  uploadId: 700099

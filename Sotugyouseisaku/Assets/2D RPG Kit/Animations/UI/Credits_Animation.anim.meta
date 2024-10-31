@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58942d0dda556fe41a8c669aad56f5bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Animations/UI/Credits_Animation.anim
+  uploadId: 700099

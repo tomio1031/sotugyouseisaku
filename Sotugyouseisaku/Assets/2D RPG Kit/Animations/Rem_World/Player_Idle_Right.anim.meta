@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a8211061811b00d45b4b5e28a5d79f70
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Animations/Rem_World/Player_Idle_Right.anim
+  uploadId: 700099

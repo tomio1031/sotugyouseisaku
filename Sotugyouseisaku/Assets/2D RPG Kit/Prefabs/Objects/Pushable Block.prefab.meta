@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 37a9427efac65474f9f63b5b4f3c4e90
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Objects/Pushable Block.prefab
+  uploadId: 700099

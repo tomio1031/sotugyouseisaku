@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 174090ae7f9eff84abe76f0ff062efac
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Touch Support/CrossPlatformInput/Prefabs/CarTiltControls.prefab
+  uploadId: 700099

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26e1e121bffd9124991f910e445b649e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Items/Ether.prefab
+  uploadId: 700099

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9ab98b66288df7b4fa182075f2f12bd6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Touch Support/CrossPlatformInput/Scripts/AxisTouchButton.cs
+  uploadId: 700099

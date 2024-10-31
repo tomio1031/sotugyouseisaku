@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ed660adc4aad567468678012b1f50a93
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Dialogs/New Dialog.asset
+  uploadId: 700099

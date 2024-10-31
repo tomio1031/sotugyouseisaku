@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c39dc2a4b99a2dc45a62c5bf4d34011d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Scripts/Credits.cs
+  uploadId: 700099

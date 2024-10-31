@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3e056caccd6121b48aef18491b4fcc51
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Battle/Skills/Thunder.prefab
+  uploadId: 700099

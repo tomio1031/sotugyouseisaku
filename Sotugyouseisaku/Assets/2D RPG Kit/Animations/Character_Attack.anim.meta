@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 52fd8a8567f798345a21c1069471d0ec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Animations/Character_Attack.anim
+  uploadId: 700099

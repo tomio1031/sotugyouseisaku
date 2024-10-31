@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ac34eefde52d5842831634536507786
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Objects/Auto Save.prefab
+  uploadId: 700099

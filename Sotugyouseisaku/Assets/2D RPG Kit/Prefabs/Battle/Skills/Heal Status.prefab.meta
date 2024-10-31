@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 535ae3a4b90d5954d80aa16e3e0fcb89
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 163910
+  packageName: 2D RPG Kit
+  packageVersion: 4.4
+  assetPath: Assets/2D RPG Kit/Prefabs/Battle/Skills/Heal Status.prefab
+  uploadId: 700099
